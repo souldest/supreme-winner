@@ -9,7 +9,7 @@ _Deutsch / English_
 
 **Deutsch:**  
 AI & Data Solutions ist eine moderne, zweisprachige Website, die professionelle Dienstleistungen in Data Science, Machine Learning, Business Intelligence, Datenmanagement und Beratung präsentiert. Die Plattform unterstützt die Sprachumschaltung Deutsch ↔ Englisch für internationale Kund:innen.  
-**Live:** [https://ai-data-solutions.de](https://ai-data-solutions.de)
+**Live:** [https://ai-data-solutions.de](https://github.com/souldest/supreme-winner)
 
 **English:**  
 AI & Data Solutions is a modern, bilingual website showcasing professional services in Data Science, Machine Learning, Business Intelligence, Data Management, and Consulting. The platform supports language switching between German ↔ English for international clients.  
