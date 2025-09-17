@@ -41,4 +41,4 @@ AI & Data Solutions is a modern, bilingual website showcasing professional servi
 
 1. Repository klonen:  
    ```bash
-   git clone https://github.com/souldest/ai-data-solutions
+   git clone https://github.com/souldest/supreme-winner
